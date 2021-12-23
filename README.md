@@ -3,7 +3,7 @@
 This project has the goal of:
 1. Turning emoji sheet images and metadata into a machine learning data set
 2. Experimenting with different types of classifiers used to classify emoji categories
-  Some of the classifiers used include: 
+  - Some of the classifiers used include: 
     - Decision Trees
     - Random Forest
     - Logistic Regression
